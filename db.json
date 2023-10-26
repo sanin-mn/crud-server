@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "name": "Sapiens (L)",
+      "price": "500",
+      "category": "History",
+      "author": "Yuval Noah Harari",
+      "id": 1
+    },
+    {
+      "name": "Ikigai",
+      "price": "300",
+      "category": "Fantasy",
+      "author": "Francesc Miralles",
+      "id": 2
+    },
+    {
+      "name": "THE SILENT PATIENT ",
+      "price": "350",
+      "category": "Biography",
+      "author": "Alex Michaelides",
+      "id": 3
+    }
+  ]
+}
